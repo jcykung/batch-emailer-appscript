@@ -1,5 +1,7 @@
 # Batch Emailer
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E41BI6JX)
+
 ## Rationale
 Out of necessity, I created an Apps Script for a Google Sheet so that I could pick and choose which parents to send a batch email to. You can use this for emailing parents or emailing anyone else for that matter. It's handy to have when you want to send specific messages to groups of people for sports teams, certain groups, family, or anyone else. Of course you can create message lists in your email program, but this is meant to be a temporary list of people and their emails which you can just select and send messages to. Only works with Google Sheets and Gmail.
 
